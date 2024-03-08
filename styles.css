@@ -1,0 +1,24 @@
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Create a grid with 3 columns */
+  grid-gap: 10px; /* Set gap between grid items */
+}
+
+.gif {
+  width: 200px; /* Make the GIFs take up the full width of the grid item */
+  height: 200px; /* Maintain aspect ratio */
+}
+.header-container {
+  background-color: #333; /* Background color for the header */
+  color: #fff; /* Text color */
+  padding: 20px; /* Add some padding */
+  text-align: center; /* Center align text */
+}
+
+.header-title {
+  font-size: 36px; /* Increase font size for the title */
+}
+
+.header-score {
+  font-size: 24px; /* Font size for the score */
+}

@@ -1,0 +1,14 @@
+.header-container {
+  background-color: #333; /* Background color for the header */
+  color: #fff; /* Text color */
+  padding: 20px; /* Add some padding */
+  text-align: center; /* Center align text */
+}
+
+.header-title {
+  font-size: 36px; /* Increase font size for the title */
+}
+
+.header-score {
+  font-size: 24px; /* Font size for the score */
+}
